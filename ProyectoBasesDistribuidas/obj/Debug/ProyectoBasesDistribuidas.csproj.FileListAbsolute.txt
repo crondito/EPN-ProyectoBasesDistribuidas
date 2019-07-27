@@ -1,0 +1,14 @@
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\bin\Debug\ProyectoBasesDistribuidas.exe.config
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\bin\Debug\ProyectoBasesDistribuidas.exe
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\bin\Debug\ProyectoBasesDistribuidas.pdb
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.csprojAssemblyReference.cache
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Form1.resources
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Properties.Resources.resources
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.csproj.GenerateResource.cache
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.csproj.CoreCompileInputs.cache
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.exe
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.pdb
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Form2.resources
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Form3.resources
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Form4.resources
+C:\Users\c_rod\source\repos\ProyectoBasesDistribuidas\ProyectoBasesDistribuidas\obj\Debug\ProyectoBasesDistribuidas.Form5.resources
